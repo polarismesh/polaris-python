@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61", "setuptools.scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "polaris-python"
+version = "0.1.0-a.1"
+authors = [
+    {name = "QuantTide Inc.", email = "opensource@quanttide.com"},
+    {name = "Tencent", email = ""}
+]
+description = "Python SDK for PolarisMesh"
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+requires-python = '>=3'
+dependencies = [
+]
+
+[project.license]
+file = "LICENSE"
+
+[project.readme]
+file = "README.md"
+content-type = "text/markdown"

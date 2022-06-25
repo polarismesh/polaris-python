@@ -1,2 +1,7 @@
 # polaris-python
-polaris sdk for python language
+
+Python SDK for PolarisMesh.
+
+## License
+
+[Apache 2.0](LICENSE)
